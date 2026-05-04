@@ -1,30 +1,18 @@
 itza yuliana hoyos serrato 
-RF 1.1
-RF 1.2
-RF 1.3
-RF 2.1
-RF 2.2
-RF 2.3
-RF 2.4
-RF 2.5
-RF 2.6
-RF 2.7
-RF 2.8
-RF 2.9
-Rf 3.1
-Rf 3.2
+RF 1
+RF 2
+RF 3
+RF 4
+RF 5
+RF 6
+RF 7
+RF 8
 meiling mariana serrato ramirez
-Rf 3.3
-RF 4.1
-RF 4.2
-RF 4.3
-RF 4.4
-RF 5.1
-RF 5.2
-RF 5.3
-RF 5.4
-RF 5.5
-RF 5.6
-RF 5.7
-RF 5.8
+RF 9
+RF 10
+RF 11
+RF 12
+RF 13
+RF 14
+RF 15
 unir las interfaces 
