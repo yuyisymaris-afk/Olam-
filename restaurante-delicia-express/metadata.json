@@ -1,0 +1,6 @@
+{
+  "name": "Restaurante Delicia Express",
+  "description": "Sistema de registro, login, verificación de CC, personalización de pedidos y panel para administrador.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

@@ -1,0 +1,51 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700;800&family=Space+Grotesk:wght@300;400;500;600;700&family=JetBrains+Mono:ital,wght@0,300;0,400;0,500;0,600;1,400&display=swap');
+@import "tailwindcss";
+
+@theme {
+  --color-slate-950: #0A0A0A;
+  --color-slate-900: #0F0F0F;
+  --color-slate-850: #0D0D0D;
+  --color-slate-800: #141414;
+  --color-slate-750: #1A1A1A;
+  --color-slate-700: #222222;
+  --color-slate-600: #333333;
+  --color-slate-500: #666666;
+  --color-slate-450: #888888;
+  --color-slate-400: #999999;
+  --color-slate-350: #CCCCCC;
+  --color-slate-300: #E5E5E5;
+
+  --color-amber-500: #F27D26;
+  --color-amber-450: #ff8c38;
+  --color-amber-550: #e06c15;
+  --color-amber-600: #c25913;
+  
+  --font-sans: "Inter", "Space Grotesk", sans-serif;
+  --font-display: "Space Grotesk", sans-serif;
+  --font-mono: "JetBrains Mono", monospace;
+  
+  --radius-xl: 6px;
+  --radius-2xl: 8px;
+  --radius-lg: 4px;
+  --radius-md: 4px;
+}
+
+body {
+  background-color: #0A0A0A;
+  color: #FFFFFF;
+}
+
+::-webkit-scrollbar {
+  width: 6px;
+  height: 6px;
+}
+::-webkit-scrollbar-track {
+  background: #0A0A0A;
+}
+::-webkit-scrollbar-thumb {
+  background: rgba(255, 255, 255, 0.1);
+  border-radius: 3px;
+}
+::-webkit-scrollbar-thumb:hover {
+  background: rgba(255, 255, 255, 0.2);
+}
