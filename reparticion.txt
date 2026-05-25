@@ -1,12 +1,13 @@
 itza yuliana hoyos serrato 
-RF 1
-RF 2
-RF 3
-RF 4
-RF 5
-RF 6
-RF 7
-RF 8
+RF 1 el sistema contara con una opcion de registrará cliente , si el cliente es nuevo en el sistema
+RF 2el sistema validara que el nuevo cliente sea mayor de edad , con una petición de tomar foto al documento de indentidad (CC) 
+RF 3Si el cliente ya tiene una cuenta el sistema le dará la opción de  poner su nombre de usuario y su contraseña  
+RF 4si el cliente olvido su contraseña el sistema de dará la opción de recuperar contraseña con su correo o su numero 
+RF 5si el clientes desea actualizar  alguno de sus datos  el sistema lo llevara al dato que sea actualizar solo datos como correo ,numero, nombre de usuario  o dirección
+El cliente ara su pedido agregando cosas a su carrito ,el sistema le dará la opción de el producto de su preferencia  de quitele o gregale cosas a su alimento .
+RF 6 el sistema generara una factura electronica que le dará al cliente indicaciones clara de su pedido ( precio , tiempo de llegada ,que pidio y método de pago )
+RF 7 el sistema le arrojara al administrador una factura de el pedido que contiene lo que el cliente pidio se  asociara y se gestionara el pedido 
+RF 8 el sistema le arojara al clientes uan opcion limitade de 30 mininutos para cancelar su pedido despues de este tiempo el cliente no podra cancelar su pedido o modificar
 meiling mariana serrato ramirez
 RF 9
 RF 10
